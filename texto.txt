@@ -1,3 +1,5 @@
 Este es un archivo de texto de prueba sobre el gitBash
 
-Porque estoy iniciando a aprender como usarlo (de manera perfecta)
+Porque estoy iniciando a aprender como usarlo 
+
+(Para utilizarlo como una experta)
