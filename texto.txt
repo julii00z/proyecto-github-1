@@ -3,3 +3,8 @@ Este es un archivo de texto de prueba sobre el gitBash
 Porque estoy iniciando a aprender como usarlo 
 
 (Para utilizarlo como una experta)
+
+PUNTOS RELEVANTES
+
+mkdir - es para crear carpetas mas no archivos
+touch - es para crear archivos
