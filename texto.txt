@@ -8,3 +8,5 @@ PUNTOS RELEVANTES
 
 mkdir - es para crear carpetas mas no archivos
 touch - es para crear archivos
+
+Esto es una prueba de como funciona el --soft reset
