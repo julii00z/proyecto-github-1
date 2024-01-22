@@ -40,6 +40,12 @@ body {
 }
 
 #post {
-    background-color: white;
     padding: 1em;
+}
+
+#footer {
+    background-color: rgb(226, 183, 230);
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
